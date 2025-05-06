@@ -1,6 +1,6 @@
 # Notion Community VIT Bhopal
 
-![Notion Logo](https://www.notionvitbhopal.in/_next/image?url=%2Flogo.png&w=640&q=75)
+![Notion Logo](https://github.com/notion-vit/NotionCommunityVITB/blob/main/assets/logo%20(2).png?raw=true&w=640&q=75)
 
 **Notion Community VIT Bhopal** is a student-run tech and productivity club at VIT Bhopal University. The club is dedicated to empowering students with tools like Notion for academic organization and collaborative learning. It fosters a vibrant and supportive environment, offering regular workshops, events, and resources that help members master digital productivity.
 
@@ -55,46 +55,6 @@ Help us by:
 - Developing and maintaining our website
 
 Reach out to our Tech Team via our official website or social channels.
-
----
-
-## 👥 Team & Leadership
-
-- **Founder:** Abhishek Kumar  
-- **President:** Rishav Mishra  
-- **Vice President:** Tejus Gupta  
-- **Event Manager:** Aadish Jagde  
-
-**Technical Team**  
-- Lead: Anushka Dubey  
-- Co-Lead: Shauryaraje Yadav  
-
-**Operations Team**  
-- Lead: Arnav Nehra  
-- Co-Lead: Shelly Sharma  
-
-**Creative Team**  
-- Lead: Saurabh Sharma  
-- Co-Lead: Mohammed Shaariq  
-
-**Outreach Team**  
-- Lead: Lokesh Bagade  
-- Co-Lead: Manaswi Suraskar  
-
-**Media Team**  
-- Lead: Swarup Futane  
-- Co-Lead: Naman Gupta  
-
-**Content Team**  
-- Lead: Deepti Srivastava  
-
-**Corporate Team**  
-- Lead: Adarsh Singh  
-- Co-Lead: Dev Vrat  
-
-**Anchoring Team**  
-- Lead: Vartika Tiwari  
-- Co-Lead: Manishika Gupta  
 
 ---
 
