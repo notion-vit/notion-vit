@@ -1,41 +1,116 @@
-```markdown
-# Notion Community - VIT Bhopal University
+# Notion Community VIT Bhopal
 
-![Notion Community Group Photo](https://raw.githubusercontent.com/vishalkumarojha/NotionCommunityVITB/refs/heads/main/assets/grouppic.jpeg)
+![Notion Logo](https://www.notionvitbhopal.in/_next/image?url=%2Flogo.png&w=640&q=75)
 
-## Welcome to the Notion Community GitHub Repository!
+**Notion Community VIT Bhopal** is a student-run tech and productivity club at VIT Bhopal University. The club is dedicated to empowering students with tools like Notion for academic organization and collaborative learning. It fosters a vibrant and supportive environment, offering regular workshops, events, and resources that help members master digital productivity.
 
-The **Notion Community at VIT Bhopal University** is a hub for students who are passionate about productivity, organization, and collaboration using **Notion**. Our community focuses on exploring Notion’s powerful features, sharing best practices, and developing templates to enhance academic and personal productivity.
+---
 
-## What We Do
-- Conduct **workshops** and **knowledge-sharing sessions** on Notion.
-- Create and share **custom Notion templates** for students and faculty.
-- Collaborate on **projects** to enhance productivity and efficiency.
-- Engage in **discussions and brainstorming** sessions to optimize workflows.
+## 🎯 Mission
 
-## Repository Overview
-This repository contains:
-- **Custom-built Notion templates** for various academic and personal use cases.
-- **Guides and tutorials** on maximizing Notion’s potential.
-- **Community contributions** and discussions.
+Our mission is to enhance student productivity and learning by promoting effective use of Notion and digital organization tools. We believe in the power of organized information and collaboration to improve academic success and personal growth.
 
-## How to Contribute
-We welcome contributions from all community members! Here’s how you can get involved:
-1. **Fork the repository** and make changes.
-2. Submit a **pull request** with your contributions.
-3. Engage in discussions and share feedback.
+---
 
-## Connect with Us
-📌 Join our Notion Community at VIT Bhopal and stay updated on upcoming events, discussions, and collaborations.
+## 🚀 Activities & Initiatives
 
-### Social Links
-- 🌐 [Website](YOUR_WEBSITE_URL)
-- 📸 [Instagram](YOUR_INSTAGRAM_URL)
-- 🐦 [Twitter](YOUR_TWITTER_URL)
-- 🎥 [YouTube](YOUR_YOUTUBE_URL)
-- 💬 [Discord](YOUR_DISCORD_URL)
+- **Workshops & Training**  
+  Hands-on sessions on Notion features, templates, and productivity techniques.
 
-📧 For any queries or suggestions, feel free to reach out!
+- **Hackathons & Events**  
+  Creative problem-solving events such as *Innovision* engage students in building solutions with Notion.
 
-Happy organizing with Notion! 🎉
-```
+- **Guest Talks & Seminars**  
+  Talks by industry and academic experts to inspire students and deepen their learning.
+
+- **Collaborative Projects**  
+  Members apply Notion to real campus challenges (project planning, research, documentation).
+
+- **Resource Sharing**  
+  Templates, tools, and best practices for academic and personal projects.
+
+- **Networking & Community**  
+  Meetups and social events that connect students across disciplines.
+
+---
+
+## ✨ How to Join
+
+All VIT Bhopal students are welcome!  
+No prior experience with Notion is required.
+
+📌 Visit [notionvitbhopal.in](https://www.notionvitbhopal.in) to explore our events and register for membership.
+
+---
+
+## 🤝 How to Contribute
+
+We're always looking for contributors!  
+Help us by:
+
+- Participating in events and workshops
+- Designing Notion templates
+- Contributing to our GitHub repositories
+- Creating technical content
+- Developing and maintaining our website
+
+Reach out to our Tech Team via our official website or social channels.
+
+---
+
+## 👥 Team & Leadership
+
+- **Founder:** Abhishek Kumar  
+- **President:** Rishav Mishra  
+- **Vice President:** Tejus Gupta  
+- **Event Manager:** Aadish Jagde  
+
+**Technical Team**  
+- Lead: Anushka Dubey  
+- Co-Lead: Shauryaraje Yadav  
+
+**Operations Team**  
+- Lead: Arnav Nehra  
+- Co-Lead: Shelly Sharma  
+
+**Creative Team**  
+- Lead: Saurabh Sharma  
+- Co-Lead: Mohammed Shaariq  
+
+**Outreach Team**  
+- Lead: Lokesh Bagade  
+- Co-Lead: Manaswi Suraskar  
+
+**Media Team**  
+- Lead: Swarup Futane  
+- Co-Lead: Naman Gupta  
+
+**Content Team**  
+- Lead: Deepti Srivastava  
+
+**Corporate Team**  
+- Lead: Adarsh Singh  
+- Co-Lead: Dev Vrat  
+
+**Anchoring Team**  
+- Lead: Vartika Tiwari  
+- Co-Lead: Manishika Gupta  
+
+---
+
+## 🔗 Resources & Links
+
+- 🌐 [Official Website](https://www.notionvitbhopal.in)
+- 📷 [Instagram](https://www.instagram.com/notion.vit)
+- 💼 [LinkedIn](https://www.linkedin.com/company/notion_vit)
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use and contribute!
+
+---
+
+> *Built and maintained by the Notion Community of VIT Bhopal.*
