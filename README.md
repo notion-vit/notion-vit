@@ -1,6 +1,6 @@
 # Notion Community VIT Bhopal
 
-![Notion Logo](https://github.com/notion-vit/NotionCommunityVITB/blob/main/assets/logo%20(2).png?raw=true&w=640&q=75)
+![Notion Logo](https://github.com/notion-vit/NotionCommunityVITB/blob/main/assets/grouppic.jpeg?raw=true?raw=true&w=640&q=75)
 
 **Notion Community VIT Bhopal** is a student-run tech and productivity club at VIT Bhopal University. The club is dedicated to empowering students with tools like Notion for academic organization and collaborative learning. It fosters a vibrant and supportive environment, offering regular workshops, events, and resources that help members master digital productivity.
 
