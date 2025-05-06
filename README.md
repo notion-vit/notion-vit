@@ -73,4 +73,4 @@ Feel free to use and contribute!
 
 ---
 
-> *Built and maintained by the Notion Community of VIT Bhopal.*
+> *Built and maintained by the Tech Team of Notion Community of VIT Bhopal.*
